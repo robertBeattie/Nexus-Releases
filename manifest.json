@@ -1,0 +1,12 @@
+{
+    "launcher":  {
+                     "version":  "1.0.0",
+                     "url":  [
+                                 "https://github.com/robertBeattie/Nexus-Releases/releases/tag/launcher-1.0.0",
+                                 "https://github.com/robertBeattie/Nexus-Releases/releases/download/launcher-1.0.0/NexusLauncher.exe"
+                             ],
+                     "sha256":  "8c9ff6fb04b8fc74c4c664a89a9bcdac99d6c7da9899fe65fdce20338498397f",
+                     "size":  140800
+                 },
+    "game":  null
+}
